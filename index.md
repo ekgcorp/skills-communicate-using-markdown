@@ -1,3 +1,7 @@
 # Learning GitHub via GitHub
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
+
+!['Image of Animated Cat'](https://octodex.github.com/images/yaktocat.png)
